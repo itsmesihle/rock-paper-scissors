@@ -6,7 +6,7 @@ let wins = 0;
 let losses = 0;
 let draws = 0;
 
-while (turns < 3) {
+while (turns < 5) {
   //computer outputs
   const randomChoice = 0 + Math.round(Math.random() * 2);
   const computerChoice = choices[randomChoice];
