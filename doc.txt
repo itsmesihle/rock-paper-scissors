@@ -1,0 +1,9 @@
+This document forms as a to-do list for my game
+
+1 - code functioning game via the terminal - CHECK
+
+2 - keep count of score - CHECK
+
+3 - connect app.js to the web
+
+4 - release to gitpages
