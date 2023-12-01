@@ -1,1 +1,5 @@
-
+html {
+  border: none;
+  padding: 5px;
+  background-color: blueviolet;
+}
