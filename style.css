@@ -3,3 +3,8 @@ html {
   padding: 5px;
   background-color: blueviolet;
 }
+
+div.container {
+  border: 2px solid red;
+  padding: 10px;
+}
